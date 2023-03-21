@@ -22,7 +22,7 @@ I'm a student of Electrical and Electronic Engineer at UNAM, Faculty of Engineer
 - I am a pre-intern at PROTECO :feelsgood:
 - Please, don't ask me if i'm sleeping well :finnadie:
 - Electronic and Electric Engineer ⚡ 
-- Studyng japanese :jp:
+- Studying Japanese :jp:
 - Guitar player in a rock band :musical_score::guitar:
 - Loving my minita (Xime, lov u) :sparkling_heart:
 
