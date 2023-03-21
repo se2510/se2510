@@ -87,7 +87,7 @@ I don't even know, man...
     - [Mika Pikazo][mika] :blue_heart:
     - [potg][po] :blue_heart:
 <p>
-  <img src="gif/kirbywalk.gif" align = "right" width="20%" height="20%"  />
+  <img src="gif/kirbywalk.gif" align = "right" width="10%" height="10%"  />
 </p>
 
 <p>
@@ -115,7 +115,7 @@ I don't even know, man...
 ## Favorites Programming Languages :sparkles:
 
 <p>
-  <img src="gif/catzilla.gif" align = "right" width="70%" height="70%"  />
+  <img src="gif/catzilla.gif" align = "right" width="40%" height="40%"  />
 </p> 
 
 - C/C++
@@ -139,16 +139,16 @@ I don't even know, man...
 ## Contact me.  :envelope:
 
  <p>
-  <img src="gif/catwork.gif" align = "right" width="240" height="240"  / (https://www.facebook.com/Dont.fck.me/)>
+  <img src="gif/catwork.gif" align = "right" width="300" height="300"  />
 </p> 
 
-<left><img src="img/facebook.png" width="7%" height="7%"/></left><bottom><a href="https://www.facebook.com/Dont.fck.me/">Facebook</a></bottom>
+<left><img src="img/facebook.png" width="5%" height="5%"/></left><bottom><a href="https://www.facebook.com/Dont.fck.me/">Facebook</a></bottom>
 
-<left><img src="img/youtube.png" width="7%" height="7%"/></left><bottom><a href="https://www.youtube.com/channel/UCmRRrVEQ0wpG1uFUz-sRrLA">Youtube</a></bottom>
+<left><img src="img/youtube.png" width="5%" height="5%"/></left><bottom><a href="https://www.youtube.com/channel/UCmRRrVEQ0wpG1uFUz-sRrLA">Youtube</a></bottom>
 
-<left><img src="img/twitter.png" width="7%" height="7%"/></left><bottom><a href="https://twitter.com/MrMiaaau">Twitter</a></bottom>
+<left><img src="img/twitter.png" width="5%" height="5%"/></left><bottom><a href="https://twitter.com/MrMiaaau">Twitter</a></bottom>
 
-<left><img src="img/linkedin.png" width="7%" height="7%"/></left><bottom><a href="https://www.linkedin.com/in/david-elias-gonz%C3%A1lez-garc%C3%ADa-569a9a207/">Linkedin</a></bottom>
+<left><img src="img/linkedin.png" width="5%" height="5%"/></left><bottom><a href="https://www.linkedin.com/in/david-elias-gonz%C3%A1lez-garc%C3%ADa-569a9a207/">Linkedin</a></bottom>
 
 
 
