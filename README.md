@@ -30,7 +30,7 @@ I'm a student of Electrical and Electronic Engineer at UNAM, Faculty of Engineer
 
 
 
-## Who am i?
+## Who am I?
 
 <p>
   <img src="gif/kirbysleep.gif" align = "right" width="20%" height="20%"  />
