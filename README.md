@@ -4,6 +4,9 @@
 
 
 # Hello there! I'm Deivi. 👋 :sunglasses:
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=se2510&color=9afbfc&style=plastic&label=+Curiosos+Encontrados+:3">
+</p>
 
 I'm a student of Electrical and Electronic Engineer at UNAM, Faculty of Engineering. :D
 
@@ -114,8 +117,12 @@ I don't even know, man...
 
 ## Favorites Programming Languages :sparkles:
 
+
+
 <p>
-  <img src="gif/catzilla.gif" align = "right" width="40%" height="40%"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=se2510&langs_count=8&theme=great-gatsby" align = "right" width="40%" height="40%"  />
+  </a>
 </p> 
 
 - C/C++
@@ -128,7 +135,22 @@ I don't even know, man...
 - Matlab
 - Arduino
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=se2510&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img src="gif/catzilla.gif"  width="40%" height="40%"  />
+</p> 
+
+## Learning Technologies 👾
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,c,cpp,cs,python,java,php" width="700"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,github,flutter,dart,bash,mysql,latex,md" width="700"/>
+  </a>
+</p>
 
 <b>
 
@@ -139,7 +161,7 @@ I don't even know, man...
 ## Contact me.  :envelope:
 
  <p>
-  <img src="gif/catwork.gif" align = "right" width="300" height="300"  />
+  <img src="gif/catwork.gif" align = "right" width="250"   />
 </p> 
 
 <left><img src="img/facebook.png" width="5%" height="5%"/></left><bottom><a href="https://www.facebook.com/Dont.fck.me/">Facebook</a></bottom>
@@ -151,9 +173,12 @@ I don't even know, man...
 <left><img src="img/linkedin.png" width="5%" height="5%"/></left><bottom><a href="https://www.linkedin.com/in/david-elias-gonz%C3%A1lez-garc%C3%ADa-569a9a207/">Linkedin</a></bottom>
 
 
+<p align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=se2510&show_icons=true&theme=great-gatsby"  width="40%" height="40%"  />
+  </a>
+</p> 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se2510&show_icons=true&theme=synthwave)
 
 <b>
 
