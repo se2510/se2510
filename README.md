@@ -4,9 +4,9 @@
 
 
 # Hello there! I'm Deivi. 👋 :sunglasses:
-<p align="right">
-    <img src="https://komarev.com/ghpvc/?username=se2510&color=9afbfc&style=plastic&label=+Curiosos+Encontrados+:3">
-</p>
+[//]: <> (<p align="right">)
+[//]: <> (    <img src="https://komarev.com/ghpvc/?username=se2510&color=9afbfc&style=plastic&label=+Curiosos+Encontrados+:3">)
+[//]: <> (</p>)
 
 I'm a student of Electrical and Electronic Engineer at UNAM, Faculty of Engineering. :D
 
@@ -139,7 +139,7 @@ I don't even know, man...
   <img src="gif/catzilla.gif"  width="40%" height="40%"  />
 </p> 
 
-## Learning Technologies 👾
+## Current technologies that I'm learning 👾
 
 <p align="center">
   <a href="https://skillicons.dev">
