@@ -115,13 +115,13 @@ I don't even know, man...
 
 </b>
 
-## Favorites Programming Languages :sparkles:
+## <p align="center"> Favorites Programming Languages :sparkles: </p>
 
 
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=se2510&langs_count=8&theme=great-gatsby" align = "right" width="40%" height="40%"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=se2510&langs_count=8&theme=great-gatsby" align = "right" width="35%" height="35%"  />
   </a>
 </p> 
 
@@ -139,7 +139,7 @@ I don't even know, man...
   <img src="gif/catzilla.gif"  width="40%" height="40%"  />
 </p> 
 
-## Current technologies that I'm learning 👾
+## <p align="center"> Current technologies that I'm learning 👾 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -158,7 +158,7 @@ I don't even know, man...
 
 </b>
 
-## Contact me.  :envelope:
+## <p align="center"> Contact me.  :envelope: </p>
 
  <p>
   <img src="gif/catwork.gif" align = "right" width="250"   />
@@ -175,7 +175,7 @@ I don't even know, man...
 
 <p align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=se2510&show_icons=true&theme=great-gatsby"  width="40%" height="40%"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=se2510&show_icons=true&theme=great-gatsby"  width="60%" height="60%"  />
   </a>
 </p> 
 
@@ -187,7 +187,8 @@ I don't even know, man...
 
 ***
 
-## 													Thanks for passing by... :flags:
+## 	<p align="center"> Thanks for passing by... :flags: </p>
+	
 <p align = "center">
   <img src="gif/byepikachu.gif"  width="460" height="360"  />
 </p> 
