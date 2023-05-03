@@ -26,8 +26,8 @@ I'm a student of Electrical and Electronic Engineer at UNAM, Faculty of Engineer
 - Please, don't ask me if i'm sleeping well :finnadie:
 - Electronic and Electric Engineer ⚡ 
 - Studying Japanese :jp:
-- Guitar player in a rock band :musical_score::guitar:
-- Loving my minita (Xime, lov u) :sparkling_heart:
+- Music Producer :musical_score:
+- Manguitos con chile enjoyer 🥭
 
 > La vida es para los aventados. -Juan Escutia
 
