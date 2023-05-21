@@ -1,9 +1,12 @@
-  <p align = "center">
+
+<p align = "center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=00939C&center=true&vCenter=true&multiline=true&width=435&height=75&lines=Hi!%2C+David+here;Welcome+to+my+profile+C%3A" alt="Typing SVG" /></a>
+</p>
+
+<p align = "center">
   <img src="gif/hellofox.gif" width="460" height="334"  />
 </p>
 
-
-# Hello there! I'm Deivi. 👋 :sunglasses:
 [//]: <> (<p align="right">)
 [//]: <> (    <img src="https://komarev.com/ghpvc/?username=se2510&color=9afbfc&style=plastic&label=+Curiosos+Encontrados+:3">)
 [//]: <> (</p>)
