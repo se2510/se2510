@@ -1,21 +1,24 @@
 
 <p align = "center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=00939C&center=true&vCenter=true&multiline=true&width=435&height=75&lines=Hi!%2C+David+here;Welcome+to+my+profile+C%3A" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Montserrat+Alternates+&duration=1000&pause=500&color=6CC1C6&background=53FFD000&center=true&width=435&lines=Hi!;Deivi's+here+C%3A" alt="Typing SVG" /></a>
 </p>
 
 <p align = "center">
-  <img src="gif/hellofox.gif" width="460" height="334"  />
+  <img src="gif/hellofox.gif" width="30%"   />
 </p>
 
 [//]: <> (<p align="right">)
 [//]: <> (    <img src="https://komarev.com/ghpvc/?username=se2510&color=9afbfc&style=plastic&label=+Curiosos+Encontrados+:3">)
 [//]: <> (</p>)
 
-I'm a student of Electrical and Electronic Engineer at UNAM, Faculty of Engineering. :D
-
-<p align = "center">
-  <img src="gif/dazai.gif" width="498" height="276"  />
+<p align="center">
+	I'm a student of Electrical and Electronic Engineer at UNAM, Faculty of Engineering. :D
 </p>
+
+
+[//]:<p align = "center">
+[//]:  <img src="gif/dazai.gif" width="498" height="276"  />
+[//]:</p>
 
 
 
@@ -25,11 +28,11 @@ I'm a student of Electrical and Electronic Engineer at UNAM, Faculty of Engineer
   <img src="gif/catinteresting.gif" align = "right" width="192" height="240"  />
 </p>
 
-- I am a pre-intern at PROTECO :feelsgood:
-- Please, don't ask me if i'm sleeping well :finnadie:
-- Electronic and Electric Engineer ⚡ 
+- I am an intern at PROTECO :feelsgood:
+- Electronic and Electric Engineer ⚡
+- I'm a IEEE member 🤓
+- SODVI's member (student group that develops videogames) 👾
 - Studying Japanese :jp:
-- Music Producer :musical_score:
 - Manguitos con chile enjoyer 🥭
 
 > La vida es para los aventados. -Juan Escutia
@@ -38,11 +41,74 @@ I'm a student of Electrical and Electronic Engineer at UNAM, Faculty of Engineer
 
 ## Who am I?
 
-<p>
-  <img src="gif/kirbysleep.gif" align = "right" width="20%" height="20%"  />
+
+<p align="center">
+I don't even know, man...
 </p>
 
-I don't even know, man...
+<p align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=se2510&show_icons=true&theme=react"  width="60%" height="60%"  />
+  </a>
+</p> 
+
+## <p align="center"> Favorites Programming Languages :sparkles: </p>
+
+
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=se2510&langs_count=8&theme=react&layout=donut-vertical" align = "right" width="30%" />
+  </a>
+</p> 
+<br>
+<p>
+</p>
+<br>
+
+- JavaScript 
+- C/C++
+- Dart
+- Java
+- Shellscript
+- Python
+- C#
+- Matlab
+
+[//]:<p align = "center">
+[//]:  <img src="gif/catzilla.gif"  width="40%" height="40%"  />
+[//]:</p> 
+
+<br>
+<p>
+</p>
+<br>
+<p>
+</p>
+<br>
+<p>
+</p>
+<br>
+<br>
+
+## <p align="center"> Current technologies that I'm learning 👾 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,c,cpp,cs,python,java,php" width="700"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,github,flutter,dart,bash,mysql,latex,md" width="700"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,godot,react,angular,nodejs,nextjs,mongodb,arduino" width="700"/>
+  </a>
+</p>
+
 
 ## Hobbies :cherry_blossom:
 
@@ -118,42 +184,7 @@ I don't even know, man...
 
 </b>
 
-## <p align="center"> Favorites Programming Languages :sparkles: </p>
 
-
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=se2510&langs_count=8&theme=great-gatsby" align = "right" width="35%" height="35%"  />
-  </a>
-</p> 
-
-- C/C++
-- Dart
-- Java
-- Python
-- C#
-- JavaScript 
-- PHP
-- Matlab
-- Arduino
-
-<p align = "center">
-  <img src="gif/catzilla.gif"  width="40%" height="40%"  />
-</p> 
-
-## <p align="center"> Current technologies that I'm learning 👾 </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,c,cpp,cs,python,java,php" width="700"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,github,flutter,dart,bash,mysql,latex,md" width="700"/>
-  </a>
-</p>
 
 <b>
 
@@ -176,11 +207,7 @@ I don't even know, man...
 <left><img src="img/linkedin.png" width="5%" height="5%"/></left><bottom><a href="https://www.linkedin.com/in/david-elias-gonz%C3%A1lez-garc%C3%ADa-569a9a207/">Linkedin</a></bottom>
 
 
-<p align = "center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=se2510&show_icons=true&theme=great-gatsby"  width="60%" height="60%"  />
-  </a>
-</p> 
+
 
 
 <b>
