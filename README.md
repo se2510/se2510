@@ -22,10 +22,10 @@
 
 
 
-## Currently on...
+## <p align="center"> Currently on... </p>
 
 <p>
-  <img src="gif/catinteresting.gif" align = "right" width="192" height="240"  />
+  <img src="gif/catinteresting.gif" align = "right" width="15%"  />
 </p>
 
 - I am an intern at PROTECO :feelsgood:
@@ -39,7 +39,7 @@
 
 
 
-## Who am I?
+## <p align="center"> Who am I? </p>
 
 
 <p align="center">
