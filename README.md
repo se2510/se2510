@@ -48,7 +48,7 @@ I don't even know, man...
 
 <p align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=se2510&show_icons=true&theme=react"  width="60%" height="60%"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=se2510&show_icons=true&theme=react&rank_icon=github"  width="60%" height="60%"  />
   </a>
 </p> 
 
@@ -58,7 +58,7 @@ I don't even know, man...
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=se2510&langs_count=8&theme=react&layout=donut-vertical" align = "right" width="30%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=se2510&langs_count=6&theme=react&layout=donut-vertical" align = "right" width="30%" />
   </a>
 </p> 
 <br>
