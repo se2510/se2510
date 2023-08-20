@@ -79,12 +79,7 @@ I don't even know, man...
 [//]:  <img src="gif/catzilla.gif"  width="40%" height="40%"  />
 [//]:</p> 
 
-<br>
-<p>
-</p>
-<br>
-<p>
-</p>
+
 <br>
 <p>
 </p>
