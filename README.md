@@ -78,13 +78,15 @@ I don't even know, man...
 [//]:<p align = "center">
 [//]:  <img src="gif/catzilla.gif"  width="40%" height="40%"  />
 [//]:</p> 
-
-
 <br>
 <p>
 </p>
 <br>
+
 <br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
 ## <p align="center"> Current technologies that I'm learning 👾 </p>
 
