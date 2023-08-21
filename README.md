@@ -219,4 +219,7 @@ I don't even know, man...
 <p align = "center">
   <img src="gif/byepikachu.gif"  width="460" height="360"  />
 </p> 
+<p align = "center">
+  ![Visitor Count](https://profile-counter.glitch.me/{se2510}/count.svg)
+</p> 
 
