@@ -30,7 +30,7 @@
 
 - I am an intern at PROTECO :feelsgood:
 - Electronic and Electric Engineer ⚡
-- I'm a IEEE member 🤓
+- I'm an IEEE member 🤓
 - SODVI's member (student group that develops videogames) 👾
 - Studying Japanese :jp:
 - Manguitos con chile enjoyer 🥭
@@ -85,7 +85,7 @@ I don't even know, man...
 
 <br>
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100"><img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
 ## <p align="center"> Current technologies that I'm learning 👾 </p>
@@ -220,6 +220,6 @@ I don't even know, man...
   <img src="gif/byepikachu.gif"  width="460" height="360"  />
 </p> 
 <p align = "center">
-  ![Visitor Count](https://profile-counter.glitch.me/{se2510}/count.svg)
+	<img alt="Visitor Count" src="https://profile-counter.glitch.me/{se2510}/count.svg">
 </p> 
 
