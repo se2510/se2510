@@ -30,7 +30,8 @@
 
 - I am an intern at PROTECO :feelsgood:
 - Electronic and Electric Engineer ⚡
-- I'm an IEEE member 🤓
+- I'm an IEEE member (general chapter) 🤓
+- Computer Society member (IEEE) 💻
 - SODVI's member (student group that develops videogames) 👾
 - Studying Japanese :jp:
 - Manguitos con chile enjoyer 🥭
