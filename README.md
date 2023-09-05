@@ -143,6 +143,10 @@ I don't even know, man...
     - Mushoku Tensei
     - Bungou Stray Dogs
 
+ <p>
+  <img src="gif/catwork.gif" align = "right" width="250"   />
+</p>
+
 - Art (Fan of) :art:
     - [Rinotuna][rinot] :blue_heart:
     - [Kuvshinov Ilya][kuv] :blue_heart:
@@ -177,18 +181,9 @@ I don't even know, man...
 [null]: https://twitter.com/nulllllllun
 [dem]: https://twitter.com/DemizuPosuka
 
-<b>
+<br>
 
-
-</b>
-
-
-
-<b>
-
-
-
-</b>
+</br>
 
 ## <p align="center"> Contact me.  :envelope: </p>
 
