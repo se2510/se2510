@@ -14,7 +14,7 @@
 <p align="center">
 	I'm a student of Electrical and Electronic Engineer at UNAM, Faculty of Engineering. :D
 </p>
-
+<!--  -->
 
 [//]:<p align = "center">
 [//]:  <img src="gif/dazai.gif" width="498" height="276"  />
@@ -196,22 +196,40 @@ I don't even know, man...
   <img src="gif/catwork.gif" align = "right" width="250"   />
 </p> 
 
-<left><img src="img/facebook.png" width="5%" height="5%"/></left><bottom><a href="https://www.facebook.com/Dont.fck.me/">Facebook</a></bottom>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
 
-<left><img src="img/youtube.png" width="5%" height="5%"/></left><bottom><a href="https://www.youtube.com/channel/UCmRRrVEQ0wpG1uFUz-sRrLA">Youtube</a></bottom>
+<a href="https://www.facebook.com/Dont.fck.me/">
+  <img src="img/facebook.png" width="10%" alt="Facebook">
+</a>
 
-<left><img src="img/twitter.png" width="5%" height="5%"/></left><bottom><a href="https://twitter.com/MrMiaaau">Twitter</a></bottom>
+<a href="https://www.instagram.com/mr.cuac/">
+  <img src="img/instagram.png" width="11%" alt="Instagram">
+</a>
 
-<left><img src="img/linkedin.png" width="5%" height="5%"/></left><bottom><a href="https://www.linkedin.com/in/david-elias-gonz%C3%A1lez-garc%C3%ADa-569a9a207/">Linkedin</a></bottom>
+<a href="https://www.youtube.com/channel/UCmRRrVEQ0wpG1uFUz-sRrLA">
+  <img src="img/youtube.png" width="10%" alt="Youtube">
+</a>
+
+<a href="https://twitter.com/MrMiaaau">
+  <img src="img/twitter.png" width="10%" alt="Twitter / X">
+</a>
+
+<a href="https://www.linkedin.com/in/david-elias-gonz%C3%A1lez-garc%C3%ADa-569a9a207/">
+  <img src="img/linkedin.png" width="10%" alt="Linkedin">
+</a>
 
 
 
 
 
-<b>
 
 
-</b>
 
 ***
 
