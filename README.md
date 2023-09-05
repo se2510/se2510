@@ -214,16 +214,6 @@ I don't even know, man...
 </a>
 </div>
 
-
-
-
-
-
-
-
-
-***
-
 ## 	<p align="center"> Thanks for passing by... :flags: </p>
 	
 <p align = "center">
