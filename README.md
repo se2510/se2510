@@ -192,24 +192,18 @@ I don't even know, man...
 
 ## <p align="center"> Contact me.  :envelope: </p>
 
- <p>
+ <!-- <p>
   <img src="gif/catwork.gif" align = "right" width="250"   />
-</p> 
+</p>  -->
 
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
 
+<div align="center">
 <a href="https://www.facebook.com/Dont.fck.me/">
   <img src="img/facebook.png" width="10%" alt="Facebook">
 </a>
 
 <a href="https://www.instagram.com/mr.cuac/">
-  <img src="img/instagram.png" width="11%" alt="Instagram">
+  <img src="img/instagram.png" width="10%" alt="Instagram">
 </a>
 
 <a href="https://www.youtube.com/channel/UCmRRrVEQ0wpG1uFUz-sRrLA">
@@ -223,6 +217,8 @@ I don't even know, man...
 <a href="https://www.linkedin.com/in/david-elias-gonz%C3%A1lez-garc%C3%ADa-569a9a207/">
   <img src="img/linkedin.png" width="10%" alt="Linkedin">
 </a>
+</div>
+
 
 
 
