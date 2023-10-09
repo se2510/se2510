@@ -43,9 +43,6 @@
 > La vida es para los aventados. -Juan Escutia
 
 ## <p align="center"> :sparkles: Some stats :sparkles: </p>
-
-
-
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=se2510&langs_count=6&theme=react&layout=donut-vertical" align = "right" width="30%" />
