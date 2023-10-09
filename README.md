@@ -1,11 +1,15 @@
 
-<p align = "center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Montserrat+Alternates+&duration=1000&pause=500&color=6CC1C6&background=53FFD000&center=true&width=435&lines=Hi!;Deivi's+here+C%3A" alt="Typing SVG" /></a>
+
+<p align="center" style="display: flex; justify-content: center;">
+    <img src="https://media4.giphy.com/media/zX5Lf9WcW6ojm/giphy.gif" width="5%" style="margin: 0;" />
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=2000&pause=500&color=E66FFF&center=true&vCenter=true&width=435&lines=%F0%9F%A6%86Deivi's+here!+%F0%9F%A6%86;%F0%9F%A6%8AWelcome+to+my+profile!+%3AD%F0%9F%A6%8A"
+            alt="Typing SVG" style="margin: 0;" />
+    </a>
+    <img src="https://media1.giphy.com/media/NKcHjb5vYSE3E0H4ug/giphy.gif" width="5%" style="margin: 0;" />
 </p>
 
-<p align = "center">
-  <img src="gif/hellofox.gif" width="30%"   />
-</p>
+
 
 [//]: <> (<p align="right">)
 [//]: <> (    <img src="https://komarev.com/ghpvc/?username=se2510&color=9afbfc&style=plastic&label=+Curiosos+Encontrados+:3">)
