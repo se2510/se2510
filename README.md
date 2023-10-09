@@ -42,17 +42,6 @@
 
 > La vida es para los aventados. -Juan Escutia
 
-
-
-## <p align="center"> Who am I? </p>
-
-
-<p align="center">
-I don't even know, man...
-</p>
-
-
-
 ## <p align="center"> :sparkles: Some stats :sparkles: </p>
 
 
