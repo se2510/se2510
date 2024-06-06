@@ -34,9 +34,10 @@
 
 - I am an intern at PROTECO :feelsgood:
 - Electronic and Electric Engineer ⚡
-- I'm an IEEE member (general chapter) 🤓
-- Computer Society member (IEEE) 💻
+- IEEE member (general chapter) 🤓
+- Computer Society Vice President (IEEE) 💻
 - SODVI's member (student group that develops videogames) 👾
+- SIAFI's member (Artifitial Inteligence Society)
 - Studying Japanese :jp:
 - Manguitos con chile enjoyer 🥭
 
