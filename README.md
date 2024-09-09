@@ -31,12 +31,12 @@
 <p>
   <img src="gif/catinteresting.gif" align = "right" width="15%"  />
 </p>
+<!--- SODVI's member (student group that develops videogames) 👾 -->
 
 - I am an intern at PROTECO :feelsgood:
 - Electronic and Electric Engineer ⚡
 - IEEE member (general chapter) 🤓
 - Computer Society Vice President (IEEE) 💻
-- SODVI's member (student group that develops videogames) 👾
 - SIAFI's member (Artifitial Inteligence Society)
 - Studying Japanese :jp:
 - Manguitos con chile enjoyer 🥭
