@@ -1,131 +1,49 @@
-
-
-<p align="center" style="display: flex; justify-content: center;">
-    <img src="https://media4.giphy.com/media/zX5Lf9WcW6ojm/giphy.gif" width="5%" style="margin: 0;" />
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=2000&pause=500&color=E66FFF&center=true&vCenter=true&width=435&lines=%F0%9F%A6%86Deivi's+here!+%F0%9F%A6%86;%F0%9F%A6%8AWelcome+to+my+profile!+%3AD%F0%9F%A6%8A"
-            alt="Typing SVG" style="margin: 0;" />
-    </a>
-    <img src="https://media1.giphy.com/media/NKcHjb5vYSE3E0H4ug/giphy.gif" width="5%" style="margin: 0;" />
-</p>
-
-
-
-[//]: <> (<p align="right">)
-[//]: <> (    <img src="https://komarev.com/ghpvc/?username=se2510&color=9afbfc&style=plastic&label=+Curiosos+Encontrados+:3">)
-[//]: <> (</p>)
-
-<p align="center">
-	I'm a student of Electrical and Electronic Engineer at UNAM, Faculty of Engineering. :D
-</p>
-<!--  -->
-
-[//]:<p align = "center">
-[//]:  <img src="gif/dazai.gif" width="498" height="276"  />
-[//]:</p>
-
-
-
-## <p align="center"> Currently on... </p>
-
-<p>
-  <img src="gif/catinteresting.gif" align = "right" width="15%"  />
-</p>
-<!--- SODVI's member (student group that develops videogames) 👾 -->
-
-- I am an intern at PROTECO :feelsgood:
-- Electronic and Electric Engineer ⚡
-- IEEE member (general chapter) 🤓
-- Computer Society Vice President (IEEE) 💻
-- SIAFI's member (Artifitial Inteligence Society)
-- Studying Japanese :jp:
-- Manguitos con chile enjoyer 🥭
-
-> La vida es para los aventados. -Juan Escutia
-
-## <p align="center"> :sparkles: Some stats :sparkles: </p>
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=se2510&langs_count=6&theme=react&layout=donut-vertical" align = "right" width="30%" />
-  </a>
-</p> 
-<br>
-<p>
-</p>
-<br>
-
-<p align = "left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=se2510&show_icons=true&theme=react&rank_icon=github"  width="60%" height="60%"  />
-  </a>
-</p> 
-
-[//]:<p align = "center">
-[//]:  <img src="gif/catzilla.gif"  width="40%" height="40%"  />
-[//]:</p> 
-<br>
-<p>
-</p>
-<br>
-
-<br>
-<p align="center">
-  <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100"><img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-
-## <p align="center"> Current technologies that I'm learning 👾 </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,c,cpp,cs,python,java,php" width="700"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,github,flutter,dart,bash,mysql,latex,md" width="700"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,godot,react,angular,nodejs,nextjs,mongodb,arduino" width="700"/>
-  </a>
-</p>
-
-## <p align="center"> Contact me.  :envelope: </p>
-
- <!-- <p>
-  <img src="gif/catwork.gif" align = "right" width="250"   />
-</p>  -->
-
-
 <div align="center">
-<a href="https://www.facebook.com/Dont.fck.me/">
-  <img src="img/facebook.png" width="8%" alt="Facebook">
-</a>
 
-<a href="https://www.instagram.com/mr.cuac/">
-  <img src="img/instagram.png" width="8%" alt="Instagram">
-</a>
+# David Elias González García
+### Full Stack Engineer • Data Scientist • UI/UX Designer
 
-<a href="https://www.youtube.com/channel/UCmRRrVEQ0wpG1uFUz-sRrLA">
-  <img src="img/youtube.png" width="8%" alt="Youtube">
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Ex-Presidente+SIAFI;Presidente+IEEE+CS+UNAM;PwC+Advisor+Guidewire;AI+%2F+ML+Engineer)](https://git.io/typing-svg)
 
-<a href="https://twitter.com/MrMiaaau">
-  <img src="img/twitter.png" width="8%" alt="Twitter / X">
-</a>
 
-<a href="https://www.linkedin.com/in/david-elias-gonz%C3%A1lez-garc%C3%ADa-569a9a207/">
-  <img src="img/linkedin.png" width="8%" alt="Linkedin">
-</a>
+
+| Leadership & Career | Tech Stack |
+| :--- | :--- |
+| **Advisor @ PwC (Guidewire Dev)** <br> Transformando procesos con código robusto. | **Data & AI:** Python, TensorFlow, PyTorch, SQL. |
+| **Presidente @ IEEE CS UNAM** <br> Liderando la comunidad de computación. | **Engineering:** Next.js, React, Node, C++, Docker. |
+| **Ex-Presidente @ SIAFI** <br> Impulsando la IA en la Facultad de Ingeniería. | **Design:** Figma, Adobe Suite, Design Systems. |
+
+
+
 </div>
 
-## 	<p align="center"> Thanks for passing by... :flags: </p>
-	
-<p align = "center">
-  <img src="gif/byepikachu.gif"  width="460" height="360"  />
-</p> 
-<p align = "center">
-	<img alt="Visitor Count" src="https://profile-counter.glitch.me/{se2510}/count.svg">
-</p> 
 
+## Creative Toolkit
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,typescript,python,tensorflow,mysql,docker,figma,adobe&perline=5" />
+</p>
+
+
+
+## Performance & Insights
+<div align="center">
+	
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=se2510&theme=react&hide_border=true&background=ffffff00&currStreakNum=BD93F9&sideNums=BD93F9)
+  
+</div>
+
+
+---
+
+## Let's Connect! :)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/david-elias-gonz%C3%A1lez-garc%C3%ADa-569a9a207/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/mr.cuac/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:elias10david@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
